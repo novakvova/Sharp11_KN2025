@@ -1,0 +1,53 @@
+Написати доментарі і пояснення до коду
+string[] names = new string[0]; 
+
+Console.WriteLine("Вводьте імена (Enter на порожньому рядку — завершення): ");
+
+while (true) //for(;true;)
+{
+    string name = Console.ReadLine()!; 
+    if (string.IsNullOrWhiteSpace(name))
+    {
+        break; 
+    }
+    int n = names.Length; 
+    string []temp = new string[n+1]; 
+    for (int i = 0; i < n; i++)
+    {
+        temp[i] = names[i]; 
+    }
+    temp[n] = name; 
+    names = temp; 
+
+}
+
+Console.WriteLine("Імена які ви ввели: "); 
+
+foreach (var n in names) 
+{
+    Console.WriteLine(n); 
+}
+
+Console.WriteLine("Введіть ім'я для пошуку: "); 
+
+string search = Console.ReadLine()!; 
+
+bool found = false; 
+
+foreach (var n in names) 
+{
+    if (n == search) 
+    {
+        found = true; 
+        break; 
+    }
+}
+
+if (found) 
+{
+    Console.WriteLine($"Ім'я {search} знайдено у масиві"); 
+}
+else
+{
+    Console.WriteLine($"Ім'я {search} не знайдено"); 
+}
