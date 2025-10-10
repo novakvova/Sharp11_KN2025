@@ -1,0 +1,3 @@
+Зробити сортування масиву методом Сортування вибором(Selection Sort).
+Приклад подивитися можна тут
+https://www.geeksforgeeks.org/dsa/selection-sort-algorithm-2/
