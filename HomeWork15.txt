@@ -1,0 +1,4 @@
+Зробити множення двох двовимірних масивів(матриць).
+Масиви користувач вводить з клавіатури
+
+https://ua.onlinemschool.com/math/library/matrix/multiply/
