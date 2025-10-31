@@ -1,0 +1,17 @@
+Зробити задачу без використання int.TryParse
+int b;
+ConvertStringToInt("abc", out b);
+ConvertStringToInt("23", out b);
+
+void ConvertStringToInt(string text, out int result)
+{
+    result = -1; //по змовчувані змінні дорівнються 0
+    if(int.TryParse(text, out result))
+    {
+        Console.WriteLine($"{text} -> {result}");
+    }
+    else
+    {
+        Console.WriteLine($"{text} -> 0");
+    }
+}
