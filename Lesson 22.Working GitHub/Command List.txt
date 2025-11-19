@@ -1,0 +1,28 @@
+git -v
+
+git config --global user.name novakvova
+
+git config --global user.email novakvova@gmail.com
+
+git config --global user.email
+
+git config --global user.name
+
+git status
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m"Add Readme"
+
+git status
+
+
+git branch -M main
+git remote add origin https://github.com/novakvova/MiniPigCPP.git
+git push -u origin main

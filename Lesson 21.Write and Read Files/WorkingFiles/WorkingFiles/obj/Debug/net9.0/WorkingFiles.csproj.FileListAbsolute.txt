@@ -1,0 +1,15 @@
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\bin\Debug\net9.0\WorkingFiles.exe
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\bin\Debug\net9.0\WorkingFiles.deps.json
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\bin\Debug\net9.0\WorkingFiles.runtimeconfig.json
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\bin\Debug\net9.0\WorkingFiles.dll
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\bin\Debug\net9.0\WorkingFiles.pdb
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.AssemblyInfoInputs.cache
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.AssemblyInfo.cs
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.csproj.CoreCompileInputs.cache
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.sourcelink.json
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.dll
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\refint\WorkingFiles.dll
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.pdb
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\WorkingFiles.genruntimeconfig.cache
+D:\Study\Kodedj\2025-2025\3.Sharp\Lesson 21.Write and Read Files\WorkingFiles\WorkingFiles\obj\Debug\net9.0\ref\WorkingFiles.dll

@@ -1,0 +1,42 @@
+Написати коментарі до класної роботи
+і її протестувати дома.
+// See https://aka.ms/new-console-template for more information
+using System.Text;
+
+Console.InputEncoding = Encoding.UTF8;
+Console.OutputEncoding = Encoding.UTF8;
+
+//1 - у користувача запрошую дані
+Console.WriteLine("Вкажіть назву або шлях до файлу:");
+//Запитуємо у користувача ім'я або шлях до файлу
+string filePath = Console.ReadLine();
+Console.WriteLine("Шлях до файлу: " + filePath);
+
+if (!File.Exists(filePath))
+{
+    Console.WriteLine("--Вказаний Вами файл не існує "+ filePath);
+}
+else
+{
+    //Читає вміст файлу, якщо він існує
+    string text = File.ReadAllText(filePath);
+    Console.WriteLine("---------Вміст файлу--------------");
+    Console.WriteLine(text);
+
+    //Привіт сьогодні класна погода
+    char ch = ' '; //Це є пробіл
+    string[] words = text.Split(ch, '\n', ','); //Розбиваємо текст по пробілу
+    Console.WriteLine("-------Поділ тексту на слова--------");
+    string findWord = "Hello"; //Пошук слова Hello
+    int count = 0;
+    foreach (string word in words)
+    {
+        if (word == findWord)
+        {
+            count++; //count = count + 1;
+            //Console.WriteLine(word);
+        }
+    }
+    Console.WriteLine("Кількість слів Hello {0}", count);
+}
+//Console.WriteLine("Привіт козаки і козачки!");
